@@ -2,7 +2,7 @@
 A classification model to advise on the indicator (new or old) to use.
 
 link- https://healthit.streamlit.app/
-NACSCOP-data-collection-tools-classification
+## NACSCOP-data-collection-tools-classification
 A model that advices on the indicator based on historical data values, facility characteristics, changes in the indicator, etc in making a choice on the indicator to use
 
 NACSCOP Data Collection Tools - Indicator Selection Model Welcome to the NACSCOP Data Collection Tools - Indicator Selection Model! This project aims to provide an objective approach to select the appropriate indicator for data collection and reporting, during the transition period of two sets of tools being in use.
